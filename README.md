@@ -1,7 +1,9 @@
 # DATABASE-GRP-WORK
 GROUP MEMBERS
-  1. BENSON MUIA
+  1. BENSON MUIA   
+     email: kilonzoben007@gmail.com
   2. SHAMIM GITUNGO
+       email: gitungoruth@gmail.com
 Prerequisites
 To successfully complete this project, you should be comfortable with:
 ●	Understanding the basics of MySQL
